@@ -1,11 +1,10 @@
-nbns-detect
-===========
+nbns-detect.pl
+==============
 
-Deploy this script on subnets where you want to monitor for NetBIOS Name Spoofing attacks.
-Usage pretty much covers all functionality in the script.
-See the following blog for some insight into the script and why we wrote it.
-https://www.btbsecurity.com/resources/blog/174-nbns-spoofing-and-knee-jerk-reactions
-
+Deploy this script on subnets where you want to monitor for NetBIOS Name Spoofing attacks.  
+Usage pretty much covers all functionality in the script.  
+See the following blog for some insight into the script and why we wrote it.  
+https://www.btbsecurity.com/resources/blog/174-nbns-spoofing-and-knee-jerk-reactions  
 
 Usage:   nbns-detect.pl -i \<interface\>  
 Example: nbns-detect.pl -i eth0  
