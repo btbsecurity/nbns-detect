@@ -2,8 +2,11 @@ nbns-detect
 ===========
 
 Deploy this script on subnets where you want to monitor for NetBIOS Name Spoofing attacks.
+
 Usage pretty much covers all functionality in the script.
+
 See the following blog for some insight into the script and why we wrote it.
+
 https://www.btbsecurity.com/resources/blog/174-nbns-spoofing-and-knee-jerk-reactions
 
 
