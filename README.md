@@ -1,6 +1,9 @@
 nbns-detect.pl
 ==============
 
+NetBIOS Name Service Spoofing Detection Script by BTB Security.  
+http://www.btbsecurity.com/  
+
 Deploy this script on subnets where you want to monitor for NetBIOS Name Spoofing attacks.  
 Usage pretty much covers all functionality in the script.  
 See the following blog for some insight into the script and why we wrote it.  
